@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial,  sans-serif; /* Font family */
+    font-size: 11px; /* O tamanho da fonte principal<p></p> tag  */
+    background-color: hwb(308 85% 0%); /* A cor do plano de fundo da página */
+    color: #000000; /* A cor do texto */ 
+}
+h1 {
+    color: hsl(0, 57%, 49%); /* A cor do cabeçalho */
+    font-size: 24px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+    
+}
+h2 {
+    color:rgb(11, 0, 158);
+}
+img {
+    border: 10px;
+    border-color:rgb(242, 140, 255);
+    border-radius: 50px;
+}
+h1:hover{
+    color:rgb(212, 0, 255);
+    
+} 
+
+div{
+    background-color: #ffffff;
+    flex-direction: column;
+    display: flex;
+    align-items:center;
+    
+}
